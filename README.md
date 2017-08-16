@@ -1,4 +1,4 @@
-## TecWeb
+## Disciplina: Tecnologias da Web
 
 Repositório das atividades da disciplina Tecnologia Web
 
